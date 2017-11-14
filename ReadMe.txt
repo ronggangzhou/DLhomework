@@ -1,1 +1,2 @@
-This is a DL homework project 
+This is a DL homework project
+ADD more info 
